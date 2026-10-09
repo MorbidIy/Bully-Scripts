@@ -44,7 +44,9 @@
 	/smoke               -- Smoke to regenerate health, but don't get busted
 	/pack                -- Spawn three Pitbull's' to bodyguard Jimmy and attack those who hit you
 
-
+- Support Me! Buy Me Coffee?
+- Inquiries!? Dead.Fvck Morbidly
+- Credits: CombineSlayer24 for the Kick Me Sign, Seigimonogatari for his Pitbull Bodygaurds, and lastly Tupakka1 for Smoking to Regen HP.
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
